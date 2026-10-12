@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono&family=Source+Sans+Pro&display=swap");
+@import url("https://use.fontawesome.com/releases/v5.15.2/css/all.css");
+
+body {
+    font-family: "Source Sans Pro", sans-serif;
+    background-color: white;
+    
+}
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+
+}
+
+.navbar ul{
+    background-color: rgb(128, 128, 128);
+    list-style-type: none;
+    overflow: hidden;
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.navbar a:hover{
+    
+    background-color: rgb(94, 94, 94);
+
+}
+
+.navbar li{
+    float: right;
+}
+
+.menu-Item {
+    margin-right: 270px;
+    padding-left: 20x;
+    
+}
